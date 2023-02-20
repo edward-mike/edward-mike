@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working towards machine learning with data analysis.<br>👯 I’m looking to collaborate on Python projects.<br>🌱 I’m currently learning Python data stack 🧰.<br>💬 Ask me about Python, Django<br>⚡ Fun fact
+🔭 I’m currently working towards machine learning with data analysis and data science.<br>👯 I’m looking to collaborate on Python projects.<br>🌱 I’m currently learning Python data stack 🧰.<br>💬 Ask me about Python, Django<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
